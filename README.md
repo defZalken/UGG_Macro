@@ -1,6 +1,7 @@
 # SPEARHEADS · Ultimate Gym Game Macro
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/zalken)
+[![Discord](https://img.shields.io/badge/Discord-join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/yb3cH2HJmn)
 [![AutoHotkey v2](https://img.shields.io/badge/AutoHotkey-v2-334455?style=flat-square)](https://www.autohotkey.com/)
 [![Release](https://img.shields.io/github/v/release/defZalken/UGG_Macro?style=flat-square&color=34764C)](https://github.com/defZalken/UGG_Macro/releases)
 
