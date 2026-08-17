@@ -108,7 +108,7 @@ If something is wrong, that output is the fastest way to find out why. Report it
 
 ## Documentation
 
-[**ARCHITECTURE.md**](https://github.com/defZalken/UGG_Macro/blob/docs/ARCHITECTURE.md) explains how it works and why: the
+[**ARCHITECTURE.md**](documentation/ARCHITECTURE.md) explains how it works and why: the
 coordinate model, the screen readers, how it recognises digits, and a section of
 field notes on the bugs that shaped the design. It is written to be readable
 without knowing the codebase.
