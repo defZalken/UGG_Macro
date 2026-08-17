@@ -461,7 +461,7 @@ off. That's the only thing to keep in mind when turning the macro on.
 ```
 
 **Step 4 is the whole efficiency argument.** Stamina regeneration is the binding
-constraint, not the macro — a full bar takes about six seconds with no boosts.
+constraint rather than the macro. A full bar takes about six seconds with no boosts.
 Steps 2 and 3 run *inside* that window, so navigation costs nothing the recharge
 was not already costing. Entering the machine early would be worse than useless:
 regeneration does not tick while you are on a machine (until 2.5s later).
