@@ -4,8 +4,9 @@
 ;  SPEARHEADS  ·  Ultimate Gym Game Macro  ·  v3.1.2
 ;  Ground-up rebuild.  Author: def.zalken
 
-SetWorkingDir A_ScriptDir
-
+try DllCall("SetProcessDpiAwarenessContext", "Ptr", -4)   ; PER_MONITOR_AWARE_V2
+catch {
+    try DllCall("Shcore\SetProcessDpiAwareness", "Int", 2)
     catch
         try DllCall("User32\SetProcessDPIAware")
 }
@@ -18,7 +19,7 @@ CoordMode "Mouse", "Screen"
 Persistent
 
 class BUILD {
-    static VERSION  := "3.1.1"
+    static VERSION  := "3.1.2"
     static PHASE    := "core"
     static CREW     := "SPEARHEADS"
     static AUTHOR   := "def.zalken"
